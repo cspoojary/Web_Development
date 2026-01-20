@@ -9,7 +9,7 @@ The project was built **during my learning process** to apply web development co
 ---
 ## Technologies Used
 - <a href="https://github.com/cspoojary/Web_Development/blob/main/Projects/ID/id.html">HTML5</a>
-- CSS3
+- <a href="https://github.com/cspoojary/Web_Development/blob/main/Projects/ID/id.css">CSS3</a>
 - Flexbox Layout
 
 ---

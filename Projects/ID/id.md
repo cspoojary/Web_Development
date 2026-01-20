@@ -28,6 +28,3 @@ The project was built **during my learning process** to apply web development co
 - Implemented layered UI design using positioning
 - Structured reusable and maintainable CSS
 - Designed a real-world styled digital ID card
-
-
-<a href="https://github.com/cspoojary/Web_Development/blob/main/Projects/ID/image/webbpage.png">Id card</a>

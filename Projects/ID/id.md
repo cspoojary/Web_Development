@@ -13,15 +13,6 @@ The project was built **during my learning process** to apply web development co
 - Flexbox Layout
 
 ---
-## Project Structure
-├── id.html
-├── id.css
-├── logo2.png
-├── chaithu.png
-├── ID_card
-└── README.md
-
----
 
 ## Features
 - Center-aligned ID card layout

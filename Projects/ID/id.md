@@ -31,4 +31,4 @@ The project was built **during my learning process** to apply web development co
 
 ---
 Output:
-<a href="https://github.com/cspoojary/Web_Development/blob/main/Projects/ID/image/webbpage.png">
+<a href="https://github.com/cspoojary/Web_Development/blob/main/Projects/ID/image/webbpage.png">Id card</a>
